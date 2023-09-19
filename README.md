@@ -1,7 +1,8 @@
 # Nakagawa Ren.
 22 years old.  
-student of National university.
+student of National university.  
 Intarested in data science
+
 # Skill
 - Python
 - Django
