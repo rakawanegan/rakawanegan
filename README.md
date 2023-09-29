@@ -1,7 +1,7 @@
 # 😃Nakagawa Ren😃
-student of National university👨‍🎓  
-Intarested in data science🤔  
-just a geek wannabe...🫥  
+👨‍🎓 student of National university👨‍🎓  
+🤔 Intarested in data science 🤔  
+🫥 just a geek wannabe...🫥  
 
 # 😃Skill😃
 - Python(Pandas, Numpy, Pytorch, Optuna, scikit-learn, etc...)
