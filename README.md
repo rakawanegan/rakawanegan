@@ -4,10 +4,14 @@
 🫥 just a geek wannabe...🫥  
 
 # 😃Skill😃
-- Python(Pandas, Numpy, Pytorch, Optuna, scikit-learn, etc...)
-- Django(instructor)
-- Ruby(soso)
-- Ruby on Rails(soso)
+- Python
+> Pandas, Numpy, Pytorch, Optuna, Scikit-learn, LightGBM, Selenium, etc...
+- Django
+> instructor
+- Ruby, Ruby on Rails
+> soso
+- Git
+- Docker
 
 # 😃Hackathon😃
 - [JPHACKS-Emotter](https://github.com/rakawanegan/Emotter)
