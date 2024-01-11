@@ -20,6 +20,7 @@
 - [SIGNATE "Predict Blue Carbon Dynamics!"](https://github.com/rakawanegan/bluecarbon_portfolio)
 - [SIGNATE Phone Price Prediction](https://github.com/rakawanegan/phonepriceprediction_portfolio)
 - [SIGNATE STUDENT CUP 2023 Used Car Price Prediction](https://github.com/rakawanegan/signatestudentcup2023_portfolio)
+- [SIGNATE SMBC Group GREEN×DATA Challenge](https://github.com/rakawanegan/smbc_green_competiton_portfolio)
 
 # 😃Research😃
 - [Human Activity Recognition WISDM dataset with Transformer](https://github.com/rakawanegan/humanactivityrecognition_portfolio)
