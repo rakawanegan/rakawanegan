@@ -28,3 +28,4 @@
 # 😃Awards😃
 - SIGNATE STUDENTS CUP 2023 modeling category special award
 - SIGNATE STUDENTS CUP 2023 Slack Activity award
+- SIGNATE Hiroshima Quest NEO special award
