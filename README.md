@@ -25,6 +25,7 @@ Just a geek wannabe... 🤓
 
 # Research 📝
 - [Human Activity Recognition WISDM dataset with Transformer](https://github.com/rakawanegan/humanactivityrecognition_portfolio) 🏃‍♂️
+- [Cattle Estrus Detection with raw dataset with TransMIL](https://github.com/rakawanegan/cattle_activity_recognition/tree/master)🐄
 
 # Awards 🏅
 - SIGNATE STUDENTS CUP 2023 modeling category special award 🏆
