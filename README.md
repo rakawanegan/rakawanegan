@@ -17,6 +17,9 @@ Just a geek wannabe... 🤓
 - [JPHACKS-Emotter](https://github.com/rakawanegan/Emotter) 😊
 - [QiitaHackathon-Questionnaire system with homomorphic encryption for calcuration]() 🔐
 
+# Project Based Learning 📚
+- [Railway Knowledge System with rinna 🚆](https://github.com/rakawanegan/pbl-railway-knowledge-system)
+
 # Data Science Competition History 🏆
 - [SIGNATE "Predict Blue Carbon Dynamics!"](https://github.com/rakawanegan/bluecarbon_portfolio) 🌊
 - [SIGNATE Phone Price Prediction](https://github.com/rakawanegan/phonepriceprediction_portfolio) 📱
