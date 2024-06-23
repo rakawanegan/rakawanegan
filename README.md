@@ -1,7 +1,10 @@
 # Nakagawa Ren 🎓
-Student at National University  
-Intarested in data science 📊  
-Just a geek wannabe... 🤓  
+- Student at National University  
+> Bachelor of Engineering(Physics & Applied Mathematics)  
+> Master of Engineering(Information Technology) -- In Progress
+
+- Intarested in data science 📊  
+- Just a geek wannabe... 🤓  
 
 # Skill 💻
 - Python 🐍
