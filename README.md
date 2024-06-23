@@ -42,5 +42,5 @@
 > 2人チームで2023年の7月から8月にかけて取り組みました。中古自動車の情報(車種・走行距離など)をもとに、中古車の価格の予測を機械学習モデルLightGBMを用いて構築しています。
 - [SIGNATE SMBC Group GREEN×DATA Challenge](https://github.com/rakawanegan/smbc_green_competiton_portfolio) 🌱
 > 1人チームで2023年の12月から2024年の1月にかけて取り組みました。木の大きさ、潜在的な問題点、周辺環境といった定量および定性データをもとに、木の健康状態の予測を機械学習モデルLightGBMを用いて構築しています。
-- [HMS - Harmful Brain Activity Classification](https://www.kaggle.com/competitions/hms-harmful-brain-activity-classification)🧠
+- [HMS - Harmful Brain Activity Classification]([https://www.kaggle.com/competitions/hms-harmful-brain-activity-classification](https://github.com/rakawanegan/HMS-harmful_brain_activity_classification_portfolio))🧠
 > 2人チームで2024年の月から月にかけて取り組みました。脳波の波形データから発作やその他の有害な脳活動を検出や分類を深層学習モデルを用いて構築しています。
