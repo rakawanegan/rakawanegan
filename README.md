@@ -23,7 +23,9 @@
 
 # Research 📝
 - [Human Activity Recognition WISDM dataset with Transformer](https://github.com/rakawanegan/humanactivityrecognition_portfolio) 🏃‍♂️
+> 学部の研究では、WISDMデータセットを題材にTransformerを用いて人間行動識別に取り組みました。単一のTransformerモデルはすでに高精度のものが公開されていました。しかし、SoTAの精度でも97％と誤検知が人命に直結する人間行動識別において不安な精度のものしかありません。そこで私はモデルの出力に確度という概念を導入し、確度に着目したアンサンブル学習を行うことでテストデータの72％において99.5％の精度を達成しました。
 - [Cattle Estrus Detection with raw dataset with TransMIL](https://github.com/rakawanegan/cattle_activity_recognition/tree/master)🐄
+> 修士の研究では、畜産業界の人手不足の解消や労働負担の軽減をすることを目指して深層学習を用いた放牧牛の管理システムの開発に取り組んでいます。中でもマルチモーダルアプローチに興味があり、動画像、角速度センサ、加速度センサから得られる多様なデータを統合し、単一のデータでは得られない高精度な発情検知を行うことを目指しています。※学会発表予定の内容を含んでいるため現在公開はしていません。
 
 # Hackathon 🚀
 - [JPHACKS-Emotter](https://github.com/rakawanegan/Emotter) 😊
