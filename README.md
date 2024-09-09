@@ -21,6 +21,9 @@
 - SIGNATE STUDENTS CUP 2023 Slack Activity award 💬
 - SIGNATE Hiroshima Quest NEO special award 🌟
 
+# Conference 🎤
+- FIT2024 第23回情報科学技術フォーラム 🍁
+
 # Research 📝
 - [Human Activity Recognition WISDM dataset with Transformer](https://github.com/rakawanegan/humanactivityrecognition_portfolio) 🏃‍♂️
 > 学部の研究では、WISDMデータセットを題材にTransformerを用いて人間行動識別に取り組みました。単一のTransformerモデルはすでに高精度のものが公開されていました。しかし、SoTAの精度でも97％と誤検知が人命に直結する人間行動識別において不安な精度のものしかありません。そこで私はモデルの出力に確度という概念を導入し、確度に着目したアンサンブル学習を行うことでテストデータの72％において99.5％の精度を達成しました。
