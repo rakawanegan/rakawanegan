@@ -22,7 +22,7 @@
 - SIGNATE Hiroshima Quest NEO special award 🌟
 
 # Conference 🎤
-- FIT2024 第23回情報科学技術フォーラム 🍁
+- [FIT2024 第23回情報科学技術フォーラム](https://github.com/rakawanegan/mil_cattle_estrus_detection) 🍁
 
 # Research 📝
 - [Human Activity Recognition WISDM dataset with Transformer](https://github.com/rakawanegan/humanactivityrecognition_portfolio) 🏃‍♂️
