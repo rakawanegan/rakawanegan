@@ -7,6 +7,7 @@
 - Just a geek wannabe... 🤓  
 
 # Skill 💻
+[![My Skills](https://skillicons.dev/icons?i=python,django,ruby,rails,git,docker)](https://skillicons.dev)
 - Python 🐍
 > Pandas, Numpy, Pytorch, Optuna, Scikit-learn, LightGBM, Selenium, etc...
 - Django 🎉
