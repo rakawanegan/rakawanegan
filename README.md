@@ -6,6 +6,10 @@
 - Intarested in data science 📊  
 - Just a geek wannabe... 🤓  
 
+# Dislikes 🍽️
+- Sour Grapes 🍇
+> But actually, I haven’t tasted them yet.
+
 # Skill 💻
 [![My Skills](https://skillicons.dev/icons?i=python,django,ruby,rails,git,docker)](https://skillicons.dev)
 - Python 🐍
