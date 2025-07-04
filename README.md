@@ -20,6 +20,7 @@
 > So-so
 - Git 🔄
 - Docker 🐳
+- Applied Information Technology Engineer 👨‍💻
 
 # Awards 🏅
 - SIGNATE STUDENTS CUP 2023 modeling category special award 🏆
