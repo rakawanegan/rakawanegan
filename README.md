@@ -30,6 +30,7 @@
 # Conference 🎤
 - [FIT2024 第23回情報科学技術フォーラム](https://github.com/rakawanegan/mil_cattle_estrus_detection) 🍁
 - [FIT2025 第24回情報科学技術フォーラム](https://github.com/rakawanegan/cattle_identification_with_gps) 🕰️
+- [International Symposium Crossing Disciplines with AI: From Perception to Production  --  Automated Monitoring of Grazing Cattle Behavior Using Video Analysis: Individual Identification of Cattle in Video Using GPS Devices](https://www.kobe-u.ac.jp/en/news/event/20251020-67217/)
 
 # Research 📝
 - [Human Activity Recognition WISDM dataset with Transformer](https://github.com/rakawanegan/humanactivityrecognition_portfolio) 🏃‍♂️
