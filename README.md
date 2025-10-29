@@ -26,6 +26,7 @@
 - SIGNATE STUDENTS CUP 2023 modeling category special award 🏆
 - SIGNATE STUDENTS CUP 2023 Slack Activity award 💬
 - SIGNATE Hiroshima Quest NEO special award 🌟
+- FIT2025 FIT奨励賞
 
 # Conference 🎤
 - [FIT2024 第23回情報科学技術フォーラム](https://github.com/rakawanegan/mil_cattle_estrus_detection) 🍁
